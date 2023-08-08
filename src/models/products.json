@@ -1,0 +1,78 @@
+[
+   {
+      "id": 1,
+      "title": "Sony WH-1000XM4 Wireless Noise-Cancelling Headphones",
+      "description": "Experience the next level of silence with these headphones featuring an improved design for better noise-cancellation.",
+      "code": "SWH1000XM4B",
+      "price": 350.5,
+      "status": true,
+      "stock": 100,
+      "category": "Electronics",
+      "thumbnail": "https://fakeurl.com/product-a.png"
+   },
+   {
+      "id": 2,
+      "title": "Apple MacBook Air with Apple M1 Chip",
+      "description": "The MacBook Air is designed to be more portable and powerful than ever, with a sleek new design and the power of the M1 chip.",
+      "code": "MBA-2021",
+      "price": 999.99,
+      "status": false,
+      "stock": 10,
+      "category": "Computers",
+      "thumbnail": "https://fakeurl.com/product-b.svg"
+   },
+   {
+      "id": 3,
+      "title": "Sony WH-1000XM4 Wireless Noise-Cancelling Headphones",
+      "description": "Experience the next level of silence with these headphones featuring an improved design for better noise-cancellation.",
+      "code": "SWH1000XM4B",
+      "price": 349.99,
+      "status": true,
+      "stock": 100,
+      "category": "Electronics",
+      "thumbnail": "https://fakeurl.com/product-a.png"
+   },
+   {
+      "id": 4,
+      "title": "Bose SoundLink Revolve+ Bluetooth Speaker",
+      "description": "Enjoy 360 degree sound with this portable speaker that delivers deep, immersive sound and a long-lasting battery life.",
+      "code": "SLREVPLSB",
+      "price": 329.99,
+      "status": true,
+      "stock": 15,
+      "category": "Audio",
+      "thumbnail": "https://fakeurl.com/product-d.svg"
+   },
+   {
+      "id": 5,
+      "title": "Fitbit Sense Smartwatch",
+      "description": "Stay on top of your fitness goals with this advanced smartwatch that features GPS, heart rate monitoring, and stress management tools.",
+      "code": "FB507BKBK",
+      "price": 299.99,
+      "status": false,
+      "stock": 5,
+      "category": "Wearables",
+      "thumbnail": "https://fakeurl.com/product-e.png"
+   },
+   {
+      "id": 6,
+      "title": "Instant Pot Duo Plus 9-in-1 Electric Pressure Cooker",
+      "description": "Cook meals up to 70% faster with this versatile pressure cooker that also functions as a slow cooker, rice cooker, and more.",
+      "code": "IP-DUOPLUS",
+      "price": 119.99,
+      "status": true,
+      "stock": 20,
+      "category": "Kitchen",
+      "thumbnail": "https://fakeurl.com/product-f.svg"
+   },
+   {
+      "title": "Dyson V11 Absolute Cordless Vacuum",
+      "description": "Clean your home with ease using this powerful, cordless vacuum that features intelligent suction and a high-capacity bin for extended cleaning sessions.",
+      "price": 599.99,
+      "thumbnail": "https://fakeurl.com/product-h.svg",
+      "code": "DYV11ABS",
+      "stock": 8,
+      "status": true,
+      "id": 7
+   }
+]
